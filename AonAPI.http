@@ -1,0 +1,10 @@
+@AonAPI_HostAddress = https://localhost:64086
+
+GET {{AonAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+GET {{AonAPI_HostAddress}}/weatherforecast
+
+###
