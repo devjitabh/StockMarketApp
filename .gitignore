@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/AonAPI/config
+/.vs/AonAPI/DesignTimeBuild
+/.vs/AonAPI/FileContentIndex
+/.vs/AonAPI/v17
+/AonAPI/bin/Debug/net8.0
+/.vs/ProjectEvaluation
+/AonAPI/obj
+/AonAPI/AonAPI.csproj.user
